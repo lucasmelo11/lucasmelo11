@@ -1,6 +1,6 @@
-👋 Olá! Eu sou o Lucas De Melo
+👋 Olá! Eu sou o Lucas De Melo, um desenvolvedor Front-end em constante evolução.
 
-🌱 Sou desenvolvedor Front end e atualmente estou estudando VueJs e aprimorando meus conhecimentos em Javascript, HTML e CSS.
+Estou mergulhando no mundo do Vue.js para expandir meu conjunto de habilidades, aprimorando assim meus conhecimentos em JavaScript, HTML e CSS.🚀
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Melo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -25,7 +25,9 @@
 <a href="mailto:lucas_melo2011@hotmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
-</div>
+</div><br>
+
+<div>🐱‍🏍 "A persistência é o combustível que nos leva do sonho ao sucesso." - Charles Chaplin</div>
 <!---
 lucasmelo11/lucasmelo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
