@@ -10,10 +10,10 @@ Estou mergulhando no mundo do Vue.js para expandir meu conjunto de habilidades, 
 </div>
 <br>
 
-<!-- <div style="display: inline_block">
+<div style="display: inline_block">
   <img align="center" alt="Melo's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmelo11&show_icons=true&theme=monokai&locale=pt-br">
   <img align="center" alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmelo11&layout=compact&locale=pt-br">
-</div> -->
+</div>
 
 <div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/lucas-de-melo-lmo11/" target="_blank">
