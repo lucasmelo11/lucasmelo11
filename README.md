@@ -28,7 +28,7 @@ Estou desbravando o mundo do React e Vue.js para expandir meu conjunto de habili
 </a>
 </div><br>
 
-<div>🏋️ "A persistência é o combustível que nos leva do sonho ao sucesso." - Charles Chaplin</div>
+<div>🏋️ "A persistência é o combustível que nos leva do sonho ao sucesso."</div>
 <!---
 lucasmelo11/lucasmelo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
