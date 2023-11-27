@@ -1,6 +1,8 @@
 👋 Olá! Eu sou o Lucas De Melo, um desenvolvedor Front-end em constante evolução.
 
-Estou explorando o mundo do React e Vue.js para expandir meu conjunto de habilidades, aprimorando assim meus conhecimentos em JavaScript, HTML e CSS.🚀
+Estou explorando o mundo do React e Vue.js para expandir meu conjunto de habilidades, aprimorando assim meus conhecimentos em JavaScript, HTML, CSS. Estou descobrindo 🚀
+
+##
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Melo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -17,7 +19,7 @@ Estou explorando o mundo do React e Vue.js para expandir meu conjunto de habilid
 </div>
 
 <div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/lucas-de-melo-lmo11/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-de-melo-lmo11/" target="_blank" style="display: none">
   <img align="center" margin="5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:lucas.melo.lmo@gmail.com" target="_blank">
@@ -26,7 +28,8 @@ Estou explorando o mundo do React e Vue.js para expandir meu conjunto de habilid
 <a href="mailto:lucas_melo2011@hotmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
-</div><br>
+</div>
+<br>
 
 <div>🏋️ "A persistência é o combustível que nos leva do sonho ao sucesso."</div>
 <!---
