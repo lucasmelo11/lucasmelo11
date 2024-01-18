@@ -1,6 +1,6 @@
 👋 Olá! Eu sou o Lucas De Melo, um desenvolvedor Front-end em constante evolução.
 
-Estou explorando o mundo do React e Vue.js para expandir meu conjunto de habilidades, aprimorando assim meus conhecimentos em JavaScript, HTML, CSS. Estou descobrindo 🚀
+Estou utilizando Vue.js em meus projetos para expandir meu conjunto de habilidades, aprimorando também meus conhecimentos em JavaScript, HTML, CSS. 🚀
 
 ##
 
