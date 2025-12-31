@@ -1,4 +1,4 @@
-Junior Front-end Developer | JavaScript | React | Vue
+Junior Front-end Developer | JavaScript | React | Vue <br>
 Building real projects and improving every day.
 
 ##
